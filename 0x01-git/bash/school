@@ -1,8 +1,2 @@
-#!/bin/bash
-echo The school is open !
-cat > school 
-#!/bin/bash
-echo The School is open!
-clear
-
-clear
+#!/bib/bash
+echo School
